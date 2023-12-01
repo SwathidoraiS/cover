@@ -66,7 +66,7 @@ Publish the website in the LocalHost.
             display: inline;
             position: relative;
             color:yellowgreen;
-            top:250px;
+            top:320px;
             
             font-family:Georgia;
             font-size: medium;
@@ -83,13 +83,13 @@ Publish the website in the LocalHost.
         .id {
             width:400px;
             position: relative;
-            top:250px;
+            top:320px;
             
         }
         .pub{
             font-size: medium;
             position: relative;
-            top:220px;
+            top:285px;
             left:370px;
         }
         .ed{
@@ -97,7 +97,7 @@ Publish the website in the LocalHost.
             font-size: medium;
             font-family: Verdana;
             position:relative;
-            top:160px;
+            top:220px;
 
         }
         .subtitle{
@@ -108,7 +108,7 @@ Publish the website in the LocalHost.
         }
         .mypic{
             position: relative;
-            top: 170px;
+            top: 230px;
             left: 260px;
             width: 100px;
             height: 90px;
@@ -151,7 +151,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (46).png>)
+![Alt text](<Screenshot (47).png>)
 
 
 ## RESULT:
